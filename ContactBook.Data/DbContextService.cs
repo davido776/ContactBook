@@ -1,0 +1,20 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using System;
+using System.Collections.Generic;
+using System.Configuration;
+using System.Text;
+
+namespace ContactBook.Data
+{
+    public static class DbContextService
+    {
+        public static IServiceCollection AddInfrastructure( this IServiceCollection services, IConfiguration configuration)
+        {
+            //services.AddDbContextPool<ContactBookDbContext>(options => options.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
+
+            return services;
+        }
+    }
+}

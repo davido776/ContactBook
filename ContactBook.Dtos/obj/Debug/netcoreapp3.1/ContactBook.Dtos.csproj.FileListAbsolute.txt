@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\ContactBook\ContactBook.Dtos\bin\Debug\netcoreapp3.1\ContactBook.Dtos.deps.json
+C:\Users\hp\source\repos\ContactBook\ContactBook.Dtos\bin\Debug\netcoreapp3.1\ContactBook.Dtos.dll
+C:\Users\hp\source\repos\ContactBook\ContactBook.Dtos\bin\Debug\netcoreapp3.1\ContactBook.Dtos.pdb
+C:\Users\hp\source\repos\ContactBook\ContactBook.Dtos\obj\Debug\netcoreapp3.1\ContactBook.Dtos.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ContactBook\ContactBook.Dtos\obj\Debug\netcoreapp3.1\ContactBook.Dtos.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ContactBook\ContactBook.Dtos\obj\Debug\netcoreapp3.1\ContactBook.Dtos.AssemblyInfo.cs
+C:\Users\hp\source\repos\ContactBook\ContactBook.Dtos\obj\Debug\netcoreapp3.1\ContactBook.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ContactBook\ContactBook.Dtos\obj\Debug\netcoreapp3.1\ContactBook.Dtos.dll
+C:\Users\hp\source\repos\ContactBook\ContactBook.Dtos\obj\Debug\netcoreapp3.1\ContactBook.Dtos.pdb
+C:\Users\hp\source\repos\ContactBook\ContactBook.Dtos\bin\Debug\netcoreapp3.1\ContactBook.Config.dll
+C:\Users\hp\source\repos\ContactBook\ContactBook.Dtos\bin\Debug\netcoreapp3.1\ContactBook.Models.dll
+C:\Users\hp\source\repos\ContactBook\ContactBook.Dtos\bin\Debug\netcoreapp3.1\ContactBook.Utitlities.dll
+C:\Users\hp\source\repos\ContactBook\ContactBook.Dtos\bin\Debug\netcoreapp3.1\ContactBook.Utitlities.pdb
+C:\Users\hp\source\repos\ContactBook\ContactBook.Dtos\bin\Debug\netcoreapp3.1\ContactBook.Config.pdb
+C:\Users\hp\source\repos\ContactBook\ContactBook.Dtos\bin\Debug\netcoreapp3.1\ContactBook.Models.pdb
+C:\Users\hp\source\repos\ContactBook\ContactBook.Dtos\obj\Debug\netcoreapp3.1\ContactBook.Dtos.csproj.CopyComplete
